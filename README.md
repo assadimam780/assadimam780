@@ -2,62 +2,42 @@
 DevOps Engineer | Azure | Terraform | Kubernetes | CI/CD | DevSecOps
 
 
-# 👋 Hi, I'm Assad Imam
+🚀 ASSAD IMAM
+DevOps Engineer
 
-### 🚀 DevOps Engineer | Azure | Terraform | Kubernetes | CI/CD
+Azure | Terraform | Docker | Kubernetes
+Azure DevOps | CI/CD | DevSecOps
 
-I build secure, scalable and automated cloud infrastructure using
-Microsoft Azure, Terraform, Docker, Kubernetes and CI/CD.
+        ↓
 
----
+👨‍💻 About Me
 
-## 🛠️ Tech Stack
+        ↓
 
-### ☁️ Cloud & Infrastructure
-- Microsoft Azure
-- Terraform
-- Bicep
-- Linux
+🛠️ Tech Stack
+Azure
+Terraform
+Docker
+Kubernetes
+Linux
+Azure DevOps
+GitHub Actions
+tfsec
+TFLint
 
-### 🚀 DevOps
-- Azure DevOps
-- GitHub Actions
-- Docker
-- Kubernetes
-- AKS
+        ↓
 
-### 🔐 DevSecOps
-- tfsec
-- TFLint
-- TruffleHog
+🚀 Featured Projects
+Azure Landing Zone
+Terraform Modules
+Triphoria Assignment
+AKS / Kubernetes
 
----
+        ↓
 
-## 🚀 Featured Projects
+📊 GitHub Stats
 
-### 🏗️ Azure Landing Zone
-Enterprise Azure infrastructure using Terraform.
+        ↓
 
-### 🔄 CI/CD Pipeline
-Automated application deployment using Azure DevOps.
-
-### ☸️ AKS Deployment
-Containerized application deployment using Docker and Kubernetes.
-
-### 📦 Terraform Modules
-Reusable and scalable Terraform modules for Azure.
-
----
-
-## 📊 GitHub Activity
-
-I continuously work on cloud infrastructure, automation,
-Infrastructure as Code and DevOps projects.
-
----
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn
-- 📄 Resume
-- 💻 GitHub
+🤝 Connect With Me
+LinkedIn | Resume | GitHub
