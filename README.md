@@ -1,194 +1,289 @@
-# ⚡ ASSAD IMAM | AZURE DEVOPS ENGINEER
+# 👋 Hi, I'm Assad Imam
 
 <div align="center">
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%" alt="Coding Animation"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=900&color=00BFFF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile;Azure+DevOps+Engineer;Cloud+Infrastructure+%7C+Terraform;Docker+%7C+Kubernetes+%7C+AKS;CI%2FCD+Automation+%7C+DevSecOps;Automating+the+Future+of+Cloud" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Azure+DevOps+Engineer;Cloud+Infrastructure+Specialist;Terraform+%7C+Azure+%7C+Kubernetes;Docker+%7C+CI%2FCD+%7C+DevSecOps;Automating+Cloud+Infrastructure;Building+Secure+%26+Scalable+Systems" />
+
+### 🚀 Azure DevOps Engineer | Cloud Automation | Infrastructure as Code
 
 <br/>
 
 <a href="https://github.com/assadimam780">
-<img src="https://img.shields.io/badge/GitHub-Assad_Imam-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/assadimam780?label=Followers&style=for-the-badge&logo=github&color=181717"/>
 </a>
 <a href="https://www.linkedin.com/in/assad-imam-a9b0001a7/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:assadimam77@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=assadimam780&label=PROFILE+VIEWS&color=0078D4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=assadimam780&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 💎 About Me
 
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="280"/>
+<div align="right">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="300" alt="Coding GIF"/>
+</div>
 
-Hello! I'm **Assad Imam**, an Azure DevOps Engineer with **1+ year of professional experience**.
+I'm an **Azure DevOps Engineer with 1+ year of professional experience**, passionate about building automated, secure, and scalable cloud infrastructure.
 
-I specialize in designing and automating cloud infrastructure, building CI/CD pipelines, implementing Infrastructure as Code, and integrating security into deployment workflows.
+I specialize in:
 
-My technical experience includes:
+- ☁️ Microsoft Azure Cloud Infrastructure
+- 🏗️ Terraform & Infrastructure as Code
+- ⚙️ Azure DevOps & YAML CI/CD Pipelines
+- 🐳 Docker & Containerization
+- ☸️ Kubernetes & Azure Kubernetes Service
+- 🔐 DevSecOps & Infrastructure Security
+- 🌐 Azure Networking & Cloud Architecture
+
+I enjoy solving infrastructure challenges, automating repetitive tasks, improving deployment workflows, and exploring modern cloud technologies.
+
+**My goal:** Build reliable cloud environments through automation, security, and continuous improvement.
+
+---
+
+# ⚡ My Professional Impact
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/80%25-LESS_MANUAL_PROVISIONING-2EA44F?style=for-the-badge&logo=terraform"/>
+<img src="https://img.shields.io/badge/90%25-REDUCED_RELEASE_CYCLE-0078D4?style=for-the-badge&logo=azuredevops"/>
+<img src="https://img.shields.io/badge/95%25-FASTER_RELEASES-8957E5?style=for-the-badge&logo=docker"/>
+
+</div>
+
+| Achievement | Result |
+|---|---|
+| Terraform Automation | 80% less manual provisioning time |
+| CI/CD Automation | 90% reduced release cycle time |
+| Secure Delivery Framework | Up to 95% faster releases |
+
+---
+
+# 🚀 Core Expertise
 
 - ☁️ Microsoft Azure Cloud
 - 🏗️ Terraform & Infrastructure as Code
-- ⚙️ Azure DevOps & YAML Pipelines
+- ⚙️ Azure DevOps & CI/CD Automation
 - 🐳 Docker & Containerization
-- ☸️ Kubernetes & Azure AKS
-- 🔐 DevSecOps & Security Automation
-- 🌐 Azure Networking & Infrastructure
-
-**My mission:** Build reliable, secure, scalable, and automated cloud infrastructure.
-
-<br clear="right"/>
-
----
-
-## 🏆 My Professional Impact
+- ☸️ Kubernetes & AKS
+- 🔐 DevSecOps & Security Scanning
+- 🌐 Azure Networking
+- 🛡️ Azure Landing Zone
+- 🐧 Linux Administration
+- 📜 Azure CLI & YAML
+- 🔥 Git & GitHub
+- 📊 Azure Monitoring & Troubleshooting
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/IMPACT-TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<h1>80%</h1>
-<b>Less Manual Provisioning</b>
-<p>Reusable Infrastructure as Code modules</p>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/IMPACT-CI%2FCD-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-<h1>90%</h1>
-<b>Reduced Release Cycle Time</b>
-<p>Automated deployment workflows</p>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/IMPACT-DELIVERY-2EA44F?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<h1>95%</h1>
-<b>Faster Releases</b>
-<p>Secure software delivery framework</p>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,githubactions,github,git,linux,powershell,python&perline=10&theme=dark"/>
 
 </div>
 
 ---
 
-## 🛠️ Technology Arsenal
-
-### ☁️ Cloud & Infrastructure as Code
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=azure,terraform,gcp&theme=dark"/>
-</p>
+# ☁️ Azure Cloud Engineering
 
 <div align="center">
 
-`Microsoft Azure` `Azure ARM` `Terraform` `Terraform Modules` `Azure Landing Zone` `Infrastructure as Code`
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="280" alt="Cloud Engineering"/>
 
 </div>
 
-### ⚙️ DevOps & CI/CD
+### Azure Technologies
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=azure,github,git,githubactions&theme=dark"/>
-</p>
-
-<div align="center">
-
-`Azure DevOps` `Azure Pipelines` `YAML` `Azure CLI` `Git` `GitHub`
-
-</div>
-
-### 🐳 Containers & Orchestration
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark"/>
-</p>
-
-<div align="center">
-
-`Docker` `Kubernetes` `AKS` `Azure Container Registry`
-
-</div>
-
-### 🔐 DevSecOps & Security
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Tfsec-Infrastructure_Security-2EA44F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TFLint-Terraform_Linting-7B42BC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TruffleHog-Secret_Scanning-E34F26?style=for-the-badge"/>
-
-</div>
-
-- Infrastructure Security Scanning
-- Secret Detection
-- Terraform Validation
-- CI/CD Security Integration
-
-### 🌐 Azure Networking
-
-`Virtual Network` · `VNet Peering` · `VPN Gateway` · `NSG` · `Route Tables` · `Bastion Host` · `Load Balancing`
+- Azure Virtual Network
+- Subnets & VNet Peering
+- Network Security Groups
+- Azure Virtual Machines
+- Azure Storage
+- Azure VPN Gateway
+- Azure Bastion
+- Application Gateway
+- Load Balancing
+- Route Tables
+- Azure Kubernetes Service
+- Azure Container Registry
+- Azure Monitor
+- Azure Landing Zone
+- Hub-and-Spoke Architecture
 
 ---
 
-## 🏗️ My Cloud Engineering Architecture
+# 🏗️ Terraform & Infrastructure as Code
 
-<div align="center">
+I use **Terraform** to automate Azure infrastructure provisioning and build reusable, scalable infrastructure modules.
 
-### Infrastructure as Code – Terraform
+### Terraform Architecture
 
 ```text
-              DEVELOPER
-                  |
-                  v
-             GIT REPOSITORY
-                  |
-                  v
-          AZURE DEVOPS PIPELINE
-                  |
-                  v
-            TERRAFORM INIT
-                  |
-                  v
-           TERRAFORM VALIDATE
-                  |
-                  v
-             SECURITY SCANS
-             /     |      \
-          TFLint  Tfsec  TruffleHog
-             \     |      /
-                  |
-                  v
-           TERRAFORM PLAN
-                  |
-                  v
-           TERRAFORM APPLY
-                  |
-                  v
-          MICROSOFT AZURE
-                  |
-          +-------+-------+
-          |       |       |
-        NETWORK COMPUTE SECURITY
-          |       |       |
-          +-------+-------+
-                  |
-                  v
-          CLOUD INFRASTRUCTURE
+                  TERRAFORM
+                      |
+          +-----------+-----------+
+          |           |           |
+          v           v           v
+      NETWORKING    COMPUTE    SECURITY
+          |           |           |
+          +-----------+-----------+
+                      |
+                      v
+               MICROSOFT AZURE
+                      |
+          +-----------+-----------+
+          |           |           |
+          v           v           v
+       VIRTUAL      STORAGE    NETWORK
+       MACHINES                SECURITY
 ```
+
+### Terraform Workflow
+
+```bash
+terraform init
+terraform fmt
+terraform validate
+terraform plan
+terraform apply
+```
+
+### What I Work With
+
+- Reusable Terraform Modules
+- Azure Resource Provisioning
+- Infrastructure Validation
+- Terraform State Management
+- Multi-environment Infrastructure
+- Azure Landing Zone Deployment
+
+---
+
+# 🔄 CI/CD & DevOps Automation
+
+<div align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="90%" alt="DevOps Animation"/>
+
+</div>
+
+### My CI/CD Pipeline
+
+```text
+       DEVELOPER
+           |
+           v
+      GIT COMMIT
+           |
+           v
+    AZURE DEVOPS
+           |
+           v
+     BUILD PIPELINE
+           |
+           v
+    TERRAFORM CHECKS
+           |
+           v
+     SECURITY SCANS
+           |
+           v
+      DOCKER BUILD
+           |
+           v
+         ACR
+           |
+           v
+      KUBERNETES
+           |
+           v
+    APPLICATION RELEASE
+```
+
+**Tools:** Azure DevOps | YAML | Terraform | Docker | ACR | AKS | GitHub Actions
+
+---
+
+# 🔐 DevSecOps & Cloud Security
+
+Security should be integrated throughout the infrastructure and deployment lifecycle.
+
+### Security Tools
+
+| Tool | Purpose |
+|---|---|
+| Tfsec | Terraform security scanning |
+| TFLint | Terraform linting |
+| TruffleHog | Secret scanning |
+| Terraform Validate | Configuration validation |
+| Azure DevOps | Automated pipeline checks |
+
+### DevSecOps Workflow
+
+```text
+Developer
+    |
+    v
+Git Push
+    |
+    v
+Azure DevOps Pipeline
+    |
+    v
+Terraform Format
+    |
+    v
+Terraform Validate
+    |
+    v
+TFLint
+    |
+    v
+Tfsec
+    |
+    v
+TruffleHog
+    |
+    v
+Terraform Plan
+    |
+    v
+Deployment
+```
+
+---
+
+# 🐳 Containers & Kubernetes
+
+I work with containerized applications and cloud-native deployment technologies.
+
+- 🐳 Docker
+- ☸️ Kubernetes
+- ☁️ Azure Kubernetes Service (AKS)
+- 📦 Azure Container Registry (ACR)
+- 🚀 Kubernetes Deployments
+- 🌐 Kubernetes Services
+- ⚙️ ConfigMaps
+- 🔐 Secrets
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure&theme=dark"/>
 
 </div>
 
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
 ### 🚀 Azure DevOps Engineer
 
@@ -196,82 +291,102 @@ My technical experience includes:
 
 📅 July 2025 – August 2026
 
-**Key Responsibilities & Contributions**
+**Key Responsibilities**
 
-- Designed and deployed Azure cloud infrastructure using Terraform.
+- Designed and deployed Microsoft Azure cloud infrastructure using Terraform.
 - Developed reusable Terraform modules, reducing manual provisioning time by 80%.
-- Created and maintained Azure DevOps YAML CI/CD pipelines.
+- Built and maintained Azure DevOps CI/CD pipelines using YAML.
 - Automated build, validation, and deployment workflows.
-- Reduced release cycle time by 90% through pipeline automation.
-- Integrated Tfsec, TFLint, and TruffleHog into CI/CD workflows.
+- Reduced release cycle time by 90%.
+- Integrated Tfsec, TFLint, and TruffleHog into CI/CD pipelines.
 - Containerized applications using Docker.
-- Supported application deployments on Azure Kubernetes Service (AKS).
+- Supported deployments on Azure Kubernetes Service (AKS).
 - Configured Azure networking, VPN Gateway, NSGs, Route Tables, and Bastion Host.
+- Troubleshot cloud infrastructure and deployment issues.
 
 ---
 
-## 🚀 Featured Projects
+# 🏠 Featured Projects
 
-### 01 | Enterprise Cloud Foundation Platform
+## 01. Enterprise Cloud Foundation Platform
 
-<img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat-square&logo=microsoftazure"/>
-<img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform"/>
+<text>**Architecture:** Azure Landing Zone | Hub-and-Spoke | Terraform</text>
 
-**Project Overview**
+Designed an Azure cloud foundation to support secure and scalable infrastructure provisioning.
 
-Designed an Azure Landing Zone using Hub-and-Spoke architecture to establish secure, scalable, and reusable cloud infrastructure.
+**Key Contributions**
 
-**Key Implementations**
+- Implemented Hub-and-Spoke network architecture.
+- Created reusable Terraform modules.
+- Configured NSGs and Route Tables.
+- Implemented Azure Bastion for secure access.
+- Automated cloud infrastructure provisioning.
+- Improved infrastructure consistency across environments.
 
-- Azure Hub-and-Spoke architecture.
-- Reusable Terraform modules.
-- Network Security Groups and Route Tables.
-- Bastion Host for secure remote access.
-- Automated environment provisioning.
+**Technologies**
 
-### 02 | Secure Software Delivery Framework
+`Azure` `Terraform` `Azure Networking` `Bastion` `NSG` `Hub-and-Spoke`
 
-<img src="https://img.shields.io/badge/Azure_DevOps-CI%2FCD-0078D4?style=flat-square&logo=azuredevops"/>
-<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/AKS-Kubernetes-326CE5?style=flat-square&logo=kubernetes"/>
+## 02. Secure Software Delivery Framework
 
-**Project Overview**
+<text>**Architecture:** Azure DevOps | Docker | AKS | DevSecOps</text>
 
-Built an automated software delivery framework using Azure DevOps, Docker, Terraform, and AKS to improve release efficiency and deployment security.
+Developed an automated software delivery framework to improve deployment efficiency and security.
 
-**Key Implementations**
+**Key Contributions**
 
-- Azure DevOps YAML pipelines.
+- Created Azure DevOps YAML pipelines.
 - Automated build and deployment workflows.
-- Docker-based application containerization.
-- Azure Kubernetes Service deployment support.
-- ACR integration.
-- Automated DevSecOps security checks.
-- Release optimization through automation.
+- Containerized applications using Docker.
+- Supported AKS application deployment.
+- Integrated Azure Container Registry.
+- Implemented automated infrastructure security checks.
+
+**Technologies**
+
+`Azure DevOps` `YAML` `Docker` `AKS` `ACR` `Terraform` `Tfsec` `TFLint`
 
 ---
 
-## 🔐 DevSecOps – Security First
+# 🌱 Currently Exploring
 
 <div align="center">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="250"/>
-
-**Security is not an afterthought. It is part of the delivery process.**
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="300"/>
 
 </div>
 
-| Tool | Purpose |
-|---|---|
-| Tfsec | Infrastructure security scanning |
-| TFLint | Terraform code validation |
-| TruffleHog | Secret detection |
-| Terraform | Infrastructure automation |
-| Azure DevOps | CI/CD security integration |
+- 🤖 AIOps & Intelligent DevOps Automation
+- ☁️ Advanced Cloud Architecture
+- 🧠 AI-driven DevOps
+- ☸️ Advanced Kubernetes
+- 🔐 Advanced DevSecOps
+- 🏗️ Platform Engineering
+- 🔗 MCP & RAG Architectures
+- 🚀 Cloud-Native Technologies
 
 ---
 
-## 📊 GitHub Command Center
+# 🏆 Certifications & Achievements
+
+### Certifications
+
+- Microsoft Certified: Azure Administrator Associate (AZ-104) – In Progress
+- Azure DevOps Engineer Expert (AZ-400) – In Progress
+
+### Awards
+
+- 🥇 Quarterly Excellence Award – DevSecOps Transformation Initiatives
+- 🏅 Client Appreciation Award – Secure, Scalable & Cost-Optimized Azure Delivery
+
+### Education
+
+🎓 B.Tech – Data Science  
+KCC Institute of Technology and Management
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -279,56 +394,45 @@ Built an automated software delivery framework using Azure DevOps, Docker, Terra
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assadimam780&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br/><br/>
+</div>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=assadimam780&theme=tokyonight&hide_border=true"/>
+---
+
+# 🔥 GitHub Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=assadimam780&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=assadimam780&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-## 🎯 My 2026 Learning Roadmap
+# 🎯 2026 Learning Goals
 
-- [x] Microsoft Azure
-- [x] Terraform & Infrastructure as Code
-- [x] Azure DevOps & CI/CD
-- [x] Docker
-- [x] Kubernetes & AKS
-- [x] DevSecOps Fundamentals
-- [ ] Advanced Kubernetes
-- [ ] Platform Engineering
-- [ ] AIOps & AI-driven Automation
-- [ ] Advanced Cloud Architecture
-- [ ] Open Source Contributions
-
----
-
-## 🏅 Certifications & Achievements
-
-**Certifications in Progress**
-
-- Microsoft Certified: Azure Administrator Associate (AZ-104)
-- Azure DevOps Engineer Expert (AZ-400)
-
-**Awards**
-
-- 🥇 Quarterly Excellence Award – DevSecOps Transformation Initiatives
-- 🏆 Client Appreciation Award – Secure, Scalable & Cost-Optimized Azure Delivery
-
-**Education**
-
-B.Tech – Data Science  
-KCC Institute of Technology and Management
+```text
+☑ Microsoft Azure
+☑ Terraform
+☑ Azure DevOps & CI/CD
+☑ Docker
+☑ Kubernetes
+☑ DevSecOps
+☐ Advanced Kubernetes
+☐ Platform Engineering
+☐ AIOps
+☐ Advanced Cloud Architecture
+☐ Open Source Contributions
+```
 
 ---
 
-## 🤝 Let's Build Something Amazing!
+# 📫 Connect With Me
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Open+to+DevOps+Opportunities;Let's+Connect+and+Collaborate;Cloud+Automation+Enthusiast;Always+Learning+%7C+Always+Building"/>
-
-<br/><br/>
 
 <a href="mailto:assadimam77@gmail.com">
 <img src="https://img.shields.io/badge/Email-assadimam77%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -344,10 +448,14 @@ KCC Institute of Technology and Management
 
 <br/><br/>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Automate+Everything.;Secure+by+Default.;Build+with+Cloud.;Deploy+with+Confidence.;Never+Stop+Learning." />
 
-### ⚡ AUTOMATE EVERYTHING. SECURE EVERYTHING. DEPLOY WITH CONFIDENCE.
+<br/><br/>
 
-**"Turning Cloud Infrastructure into Automated Solutions."**
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%" alt="Coding Animation"/>
+
+### 🚀 AZURE DEVOPS ENGINEER | CLOUD AUTOMATION | DEVSECOPS
+
+**"Automate. Secure. Deploy. Repeat."**
 
 </div>
